@@ -1,0 +1,12 @@
+
+*.pyc
+
+WORKDIR/
+
+.idea/
+
+build/
+
+dist/
+
+Chunkey.egg-info/
